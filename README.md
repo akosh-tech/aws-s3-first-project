@@ -38,9 +38,9 @@ I left public access blocked and used AWS default security settings. This made s
 ## 📸 Screenshots
 I’ve attached screenshots showing:
 
-* My bucket creation 
-* The uploaded file
-* Security settings (block public access ON)
+* Security settings [Bucket View](Blockpublicaccess.png)
+* The uploaded file ![Upload](Fileupload.png)
+* My bucket creation ![Bucket View](Bucketview.png)
 
 
 ---
