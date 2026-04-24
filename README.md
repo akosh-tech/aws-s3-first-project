@@ -1,5 +1,5 @@
 # aws-s3-first-project
-AWS S3 beginner project demonstrating bucket creation, file upload, and secure access configuration using best practices.
+My first AWS S3 beginner project demonstrating bucket creation, file upload, and secure access configuration using best practices.
 
 ## 👋 Overview
 This is my first hands-on project using Amazon Web Services. I used Amazon S3 to create a storage bucket, upload a file, and understand how cloud storage works in real life.
