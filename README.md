@@ -41,6 +41,7 @@ I’ve attached screenshots showing:
 * Security settings [Bucket View](Blockpublicaccess.png)
 * The uploaded file ![Upload](Fileupload.png)
 * My bucket creation ![Bucket View](Bucketview.png)
+* * Security settings (block public access ON) <img width="1792" height="455" alt="Block public access" src="https://github.com/user-attachments/assets/451f3309-75d8-4799-afcb-c573fd6a4e9d" />
 
 
 ---
