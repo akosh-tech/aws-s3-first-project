@@ -1,5 +1,5 @@
 # aws-s3-first-project
-My first AWS S3 beginner project demonstrating bucket creation, file upload, and secure access configuration using best practices.
+My first AWS S3 beginner project demonstrates bucket creation, file upload, and secure access configuration using best practices.
 
 ## 👋 Overview
 This is my first hands-on project using Amazon Web Services. I used Amazon S3 to create a storage bucket, upload a file, and understand how cloud storage works in real life.
@@ -39,11 +39,11 @@ I left public access blocked and used AWS default security settings. This made s
 I’ve attached screenshots showing:
 
 
-* * Security settings (block public access ON) <img width="1792" height="455" alt="Block public access" src="https://github.com/user-attachments/assets/451f3309-75d8-4799-afcb-c573fd6a4e9d" />
+ * Security settings (block public access ON) <img width="1792" height="455" alt="Block public access" src="https://github.com/user-attachments/assets/451f3309-75d8-4799-afcb-c573fd6a4e9d" />
 
-* *  The uploaded file <img width="1413" height="322" alt="File uploaded" src="https://github.com/user-attachments/assets/a4a4dc5f-bb7c-480a-9d72-b63e5f9e3832" />
+ *  The uploaded file <img width="1413" height="322" alt="File uploaded" src="https://github.com/user-attachments/assets/a4a4dc5f-bb7c-480a-9d72-b63e5f9e3832" />
 
-* * My bucket creation <img width="1027" height="446" alt="Bucket view" src="https://github.com/user-attachments/assets/c3801b85-49c0-4c09-afa3-e712afdf0877" />
+ * My bucket creation <img width="1027" height="446" alt="Bucket view" src="https://github.com/user-attachments/assets/c3801b85-49c0-4c09-afa3-e712afdf0877" />
 
 
 
@@ -53,4 +53,3 @@ I’ve attached screenshots showing:
 
 This project helped me understand how cloud storage actually works instead of just reading about it.
 
-More projects coming as I continue learning AWS step by step.
